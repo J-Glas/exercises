@@ -1,0 +1,20 @@
+.classnumber {
+    color:rgb(85, 2, 2);
+    font-family: 'Verdana', 'DejaVu Sans','sans-serif';
+    background-color: rgb(238, 42, 42);
+    
+  }
+  .classnumber2 {
+    color:rgb(238, 8, 8);
+    font-family: 'Verdana', 'DejaVu Sans','sans-serif';
+    font-size: 24px;
+    
+  }
+  #idnumber {
+    color:rgb(15, 15, 230);
+    font-size:36px;
+  }
+  #idnumber2 {
+    background-color: rgb(32, 252, 51);
+    font-size: 24px;
+  }
